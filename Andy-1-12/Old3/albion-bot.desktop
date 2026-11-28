@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Albion Fishing Bot
+Comment=Авто-рыбалка для Albion Online
+Exec=/bin/bash -c 'cd "$(dirname "%k")" && ./START.sh'
+Icon=applications-games
+Terminal=true
+Categories=Game;
